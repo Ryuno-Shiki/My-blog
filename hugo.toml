@@ -1,14 +1,17 @@
-baseURL = 'https://Ryuno-Shiki.github.io/'
+baseURL = 'https://deft-blini-d16d4d.netlify.app/'
 languageCode = 'zh-cn'
 title = '四季流乃的小破站'
 theme = 'ryuno'
 
-menu.main
+[menu]
+[[menu.main]]
+identifier = 'about'
 name = '关于'
-url = 'https://deft-blini-d16d4d.netlify.app/about'
-weight = 2
+url = '/about/'
+weight = 10
 
-menu.main
+[[menu.main]]
+identifier = 'friend'
 name = '友情链接'
-url = 'https://deft-blini-d16d4d.netlify.app/friend'
-weight = 3
+url = '/friend/'
+weight = 20

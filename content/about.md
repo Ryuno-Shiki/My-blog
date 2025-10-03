@@ -1,7 +1,8 @@
 +++
 date = '2025-10-03T07:58:25+08:00'
-draft = fales
+draft = 'fales'
 title = '关于'
+type = 'page'
 +++
 # 欢迎来到我的博客
 

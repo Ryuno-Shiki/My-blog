@@ -1,7 +1,8 @@
 +++
 date = '2025-10-03T07:58:35+08:00'
-draft = fales
+draft = 'fales'
 title = '友情链接'
+type = 'page'
 +++
 
 啥都木有......
