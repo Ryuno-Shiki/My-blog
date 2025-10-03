@@ -1,14 +1,14 @@
-baseURL = 'https://<username>.github.io/'
+baseURL = 'https://Ryuno-Shiki.github.io/'
 languageCode = 'zh-cn'
 title = '四季流乃的小破站'
 theme = 'ryuno'
 
 menu.main
 name = '关于'
-url = '/about/'
+url = 'https://deft-blini-d16d4d.netlify.app/about'
 weight = 2
 
 menu.main
 name = '友情链接'
-url = '/firend/'
+url = 'https://deft-blini-d16d4d.netlify.app/friend'
 weight = 3
