@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on My New Hugo Site</title>
-    <link>https://&lt;username&gt;.github.io/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content from My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
@@ -15,7 +15,7 @@
     <lastBuildDate></lastBuildDate>
     
     
-    <atom:link href="https://%3cusername%3e.github.io/posts/index.xml" rel="self" type="application/rss&#43;xml" />
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss&#43;xml" />
     
 
     

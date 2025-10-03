@@ -1,4 +1,14 @@
 baseURL = 'https://<username>.github.io/'
 languageCode = 'zh-cn'
-title = 'My New Hugo Site'
+title = '四季流乃的小破站'
 theme = 'ryuno'
+
+menu.main
+name = '关于'
+url = '/about/'
+weight = 2
+
+menu.main
+name = '友情链接'
+url = '/firend/'
+weight = 3
