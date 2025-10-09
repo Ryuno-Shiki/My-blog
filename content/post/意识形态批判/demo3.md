@@ -2,6 +2,7 @@
 date = '2025-10-09T09:04:30+08:00'
 draft = 'fale'
 title = '谁的人民？怎样的群众？'
+cover = 'static/images/l.png'
 +++
 “广大人民群众看不懂”
 
